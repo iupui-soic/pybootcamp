@@ -1,5 +1,5 @@
 # pybootcamp
-**Python bootcamp for Health Informatics - Summer 2023**
+**Python bootcamp for Health Informatics - Winter 2023**
 
 This repository contains code and resources related to the "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" 3rd edition book by Aurélien Géron.
 
