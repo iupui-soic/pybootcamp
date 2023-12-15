@@ -3,7 +3,7 @@
 
 This repository contains code and resources related to the "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" 3rd edition book by Aurélien Géron.
 
-Chapter 1: The Machine Learning Landscape
+### Chapter 1: The Machine Learning Landscape
 
 **Day 1 (12/11/2023):**
   * Why use ML?
@@ -19,6 +19,7 @@ Chapter 1: The Machine Learning Landscape
 2.	Read Chapter 2, at least until Data cleaning.
 3.	Commit Chapter 2 notebook.
 
+### Chapter 2: End-to-End Machine Learning Project
 **Day 2 (12/14/2023):**
   * Working with Real Data
   * Checking assumptions
