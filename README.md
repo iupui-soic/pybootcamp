@@ -5,9 +5,32 @@ This repository contains code and resources related to the "Hands-On Machine Lea
 
 Chapter 1: The Machine Learning Landscape
 
-In this chapter, we introduce the basics of machine learning and discuss the various types of machine learning algorithms and their applications. 
-(The code files can be found as USERNAME_day1.ipynb or USERNAME_1.ipynb)
+**Day 1 (12/11/2023):**
+  * Why use ML?
+  * Types of ML systems
+  * Challenges of ML
+  * Testing and validation
+  * Linear Model
+  * Regularization
+  * Hyperparameters
 
-(As we progress, I will upload the details about the chapters here for the quick review)
+**TODO before 12/14:**
+1.	Commit your Chapter 1 notebook ASAP.
+2.	Read Chapter 2, at least until Data cleaning.
+3.	Commit Chapter 2 notebook.
+
+**Day 2 (12/14/2023):**
+  * Working with Real Data
+  * Checking assumptions
+  * Loading data into pandas
+  * Visualizing in geography
+  * Looking for correlations
+  * Data cleaning
+
+**TODO before 12/18:**
+1.	Complete commits from Chapter 1 and Chapter 2.
+2.	Read the remaining part of Chapter 2.
+3.	Modify the notebook of Chapter 2 with a discussion around loading data, variables, scaling, etc.
+4.	We’ll start cleaning the invitation list if we don’t see attendance or repo activities.
 
 Additional Resources: https://github.com/ageron/handson-ml3 
