@@ -34,4 +34,20 @@ This repository contains code and resources related to the "Hands-On Machine Lea
 3.	Modify the notebook of Chapter 2 with a discussion around loading data, variables, scaling, etc.
 4.	We’ll start cleaning the invitation list if we don’t see attendance or repo activities.
 
+**Day 3 (12/18/2023):**
+  * Feature Scaling
+  * Pipelines
+  * Training and Evaluation on Training Set
+  * Cross-validation
+  * Hyperparameter tuning
+  * Ensemble models
+  * Launch and maintain models
+
+**TODO before 12/21:**
+1.	Commit chapter 2 with changes to get RMSE < 25k.
+2.	Try other types of Feature Scaling.
+3.	Read Chapter 3.
+4.	Removed those who are not attending or committing notebooks.
+
+
 Additional Resources: https://github.com/ageron/handson-ml3 
