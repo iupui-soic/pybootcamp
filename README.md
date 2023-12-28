@@ -50,4 +50,13 @@ This repository contains code and resources related to the "Hands-On Machine Lea
 4.	Removed those who are not attending or committing notebooks.
 
 
+### Chapter 5: SVC
+**Day 6 (12/28/2023):**
+Presenter: Kelly
+Attendees: Kelly, Deepishka, Sapna, Atika
+ * SVM
+ * Parameters customization
+ * Predicting using Linear SVC
+ *  
+
 Additional Resources: https://github.com/ageron/handson-ml3 
