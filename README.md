@@ -57,6 +57,8 @@ Attendees: Kelly, Deepishka, Sapna, Atika
  * SVM
  * Parameters customization
  * Predicting using Linear SVC
- *  
+ * Optimizing
+
+Next class presenter for Chapter 6: Deepishka
 
 Additional Resources: https://github.com/ageron/handson-ml3 
