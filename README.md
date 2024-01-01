@@ -61,4 +61,16 @@ Attendees: Kelly, Deepishka, Sapna, Atika
 
 Next class presenter for Chapter 6: Deepishka
 
+### Chapter 6: Decision Trees
+**Day 7 (01/01/2024):**
+
+Presenter: Deepishka
+Attendees: Deepishka, Kalp, Sapna, Sadia, Atika
+
+ * Parameters in Decision Trees
+ * Entropy explained
+ * Complexity in Decision trees
+
+Next class presenter for class 7: Sadia/Atika
+
 Additional Resources: https://github.com/ageron/handson-ml3 
