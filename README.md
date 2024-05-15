@@ -5,19 +5,19 @@ This repository contains code and resources related to the "Hands-On Machine Lea
 
 ### Chapter 1: The Machine Learning Landscape
 
-**Day 1 (05/15/2024):**
-  * Why use ML?
-  * Types of ML systems
-  * Challenges of ML
-  * Testing and validation
-  * Linear Model
-  * Regularization
-  * Hyperparameters
+**Day 1 (05/15/2024) - Deepishka Pemmasani:**
+  * Introductions of the participants.
+  * GitHub repos and using Google Colab - https://colab.research.google.com/
+  * What is ML?
+  * When to use ML?
+  * Some use cases of ML in Healthcare.
+  * Supervised vs Unsupervised learning – and other types of ML.
+  * Batch vs online learning.
+  * Instance-Based Versus Model-Based Learning.
+  * Next part: Raajitha Muthyala
 
 **TODO before 05/22:**
-1.	Commit your Chapter 1 notebook ASAP.
-2.	Read Chapter 2, at least until Data cleaning.
-3.	Commit Chapter 2 notebook.
-
+1.	Commit Chapter 1 notebook with improvements to the GitHub repo.
+2.	Read remaining part of Chapter 1.
 
 Additional Resources: https://github.com/ageron/handson-ml3 
